@@ -12,6 +12,14 @@ body {
   font-family: "Roboto Mono", monospace;
   font-weight: 500;
 }
+.carousel-inner {
+  max-height: 80vh; 
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+}
 
 .logo {
   width: 100px;
@@ -44,6 +52,7 @@ body {
 }
 .main {
   clip-path: circle();
+  width: 95%;
 }
 .color {
   color: #33ffa9;
