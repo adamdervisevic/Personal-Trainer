@@ -1,1 +1,1 @@
-You can visit the live site here: <a href="https://adamdervisevic.github.io/Personal-Trainer/" target="_blank">Live Website</a>
+You can visit the live site here (open in a new tab): [Live Website](https://adamdervisevic.github.io/Personal-Trainer/)
